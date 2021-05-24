@@ -7,7 +7,7 @@ public class Main {
     JFrame f = new JFrame();
 
     // creating instance of JButton
-    JButton b = new JButton("Click me!");
+    JButton b = new JButton("Klik hier!");
 
     // x axis, y axis, width, height
     b.setBounds(80, 100, 250, 40);
